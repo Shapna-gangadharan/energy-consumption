@@ -3,7 +3,7 @@ Energy Consumption Prediction
 Description
 This project aims to predict energy consumption based on historical data and relevant features. By leveraging machine learning algorithms, the project provides accurate forecasts of energy usage, enabling stakeholders to optimize resource allocation and make informed decisions for energy management.
 
-**Usage**
+****Usage****************
 Preprocess the data:
 Clean the dataset.
 Handle missing values.
